@@ -1,0 +1,8 @@
+{
+  "name": "com.chickenassets",
+  "version": "0.0.1",
+  "description": "A collection of useful assets",
+  "displayName": "Chicken Assets",
+  "unity": "2020.3",
+  "type": "tool"
+}
